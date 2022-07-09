@@ -1,6 +1,7 @@
 - Hey, my name's Solomon.
 - I started coding 2017.
-- I'm very passionate about solving programming errors or bugs, I live for the thrill. 
+- I'm very passionate about solving programming errors or bugs, I live for the thrill.
+- I love building web applications but I am also open to learning new technologies. 
 
 <!---
 Uncle-Solomon/Uncle-Solomon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
