@@ -1,3 +1,5 @@
+## Uncle Solomon
+
 - Hey, my name's Solomon.
 - I started coding 2017.
 - I'm very passionate about solving programming errors or bugs, I live for the thrill.
@@ -5,9 +7,12 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncle-Solomon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncle-Solomon&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uncle-Solomon&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uncle-Solomon&repo=convoychat" />
+</a>
 
 <!---
 Uncle-Solomon/Uncle-Solomon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
