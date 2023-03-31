@@ -7,5 +7,5 @@
 - I make magic happen with Python and JavaScript :)
 
 
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Uncle-Solomon?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
