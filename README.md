@@ -7,4 +7,4 @@
 - I make magic happen with Python and JavaScript :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncle-Solomon&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncle-Solomon&count_private=true)
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncle-Solomon)
