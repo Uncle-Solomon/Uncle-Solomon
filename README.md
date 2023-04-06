@@ -6,5 +6,5 @@
 - I love building web applications but I am also open to learning new technologies. 
 - I make magic happen with Python and JavaScript :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncle-Solomon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncle-Solomon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncle-Solomon&count_private=true)
