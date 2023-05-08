@@ -1,4 +1,4 @@
-## Uncle Solomon :rocket:
+## Uncle Solomon :rocket: 🦍:
 
 - Hey, my name's Solomon.
 - I started coding 2017.
